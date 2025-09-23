@@ -5,9 +5,9 @@
   align-items: center;
   border: 2px solid black;
   box-shadow: 0 0 10px black;
+  color: red;
 }
 .entire .h3{
-  color: red;
   width: 5em;
   margin-right: 1em;
   height: 3em;
