@@ -1,0 +1,14 @@
+.header{
+  z-index: 0;
+  background-color: grey;
+  text-align: center;
+  height: 20em;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  }
+.header h1{
+  font-size: xx-large;
+  color: white;
+  margin: 0;
+}
