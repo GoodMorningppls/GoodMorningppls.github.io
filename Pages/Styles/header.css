@@ -6,9 +6,15 @@
   flex-direction: column;
   display: flex;
   justify-content: center;
+  font-family: 'Segoe UI';
   }
 .header h1{
   font-size: xx-large;
   color: white;
   margin: 0;
+}
+.header p{
+  font-size: small;
+  color: rgb(223, 223, 223);
+  margin-top: 0.5em;
 }
