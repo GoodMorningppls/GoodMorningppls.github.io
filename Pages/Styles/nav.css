@@ -36,6 +36,7 @@
   }
 .bar li a:hover{
   background-color: rgba(110, 187, 190, 0.61);
+  transition: 0.25s all;
 }
 .bar h3{
   margin-left: 1em;
