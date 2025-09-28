@@ -4,7 +4,7 @@
   align-items: center;
   width: 100%;
   justify-content: left;
-  background-color: rgb(120,205,208);
+  background-color: rgba(120, 205, 208, 0.623);
   color: rgb(17,19,20);
   z-index: 1;
   position: fixed;
@@ -13,6 +13,7 @@
   right:0;
   box-shadow: 0 0 10px black;
   border-radius: 2px;
+  backdrop-filter: blur(10px);
 }
 .bar ul{
   display: flex;

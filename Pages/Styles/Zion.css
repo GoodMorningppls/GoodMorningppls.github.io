@@ -1,0 +1,10 @@
+.header{
+    background-image: url('../Assets/BackgroundZion.jpeg');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    min-height: 20em;
+}
+.header p{
+    color: white;
+}
