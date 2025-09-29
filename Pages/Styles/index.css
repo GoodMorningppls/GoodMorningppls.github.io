@@ -17,3 +17,8 @@
     text-align: center;
     width: 50%;
 }
+.header{
+    background-image: url('../Assets/Website.png');
+    background-position: center;
+    background-color: rgb(17,19,20);
+}
